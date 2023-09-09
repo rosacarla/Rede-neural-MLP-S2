@@ -1,6 +1,5 @@
 # 🧠 REDE NEURAL MLP S2  
-
-  
+<p align="justify>Projeto de rede neural do tipo <i>Multi-Layer Perceptron</i> (MLP) para identificar números escritos (ou desenhados) manualmente por seres humanos em tarefa de visão computacional. Realizaram-se treinos com 2 até 10 neurônios na camada oculta e, ao final, apresenta-se a análise do modelo quanto às métricas, parâmetros configuráveis, melhorias possíveis da arquitura da rede para consequente melhroria do seu desempenho.</p>  
 
 ## 🧰 Tecnologias utilizadas  
 ```python
